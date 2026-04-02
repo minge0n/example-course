@@ -1,8 +1,10 @@
+id: qiz_050d1eccc2a945d5ba894e34d3f0f789
 title: "만료 회차 퀴즈"
 description: "만료 시점 이후 접근 차단 여부를 확인하는 퀴즈"
 published: true
 questions:
-  - type: mcq
+  - id: qqn_a62d491a4dde4375898318d94acb9172
+    type: mcq
     text: "이 회차는 어떤 상태를 테스트하나요?"
     options:
       - label: A
@@ -16,6 +18,7 @@ questions:
     correct: C
     points: 2
 
-  - type: essay
+  - id: qqn_c2b82a7320fc4785bddaa68daf96e539
+    type: essay
     text: "수업 종료 후 회차를 숨길 때 published를 내리는 것과 available_until을 두는 것의 차이를 설명하세요."
     points: 5

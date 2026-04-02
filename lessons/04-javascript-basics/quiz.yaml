@@ -1,12 +1,15 @@
+id: qiz_644c738f19cb4dfb9e834b455d749ce7
 title: "예약 공개 퀴즈"
 description: "availability window가 열리기 전에는 학생에게 보이지 않아야 합니다."
 published: true
 questions:
-  - type: short_answer
+  - id: qqn_ac5952754baa4efe9a6916df48516bde
+    type: short_answer
     text: "회차 공개 시작 시각을 제어하는 lesson.yaml 필드는?"
     correct_answer: "available_from"
     points: 1
 
-  - type: essay
+  - id: qqn_b70a10f905674194b316ab074d4342d4
+    type: essay
     text: "예약 공개 회차가 필요한 실제 운영 사례를 하나 제시하고, 왜 필요한지 설명하세요."
     points: 4

@@ -1,15 +1,18 @@
+id: qiz_21c5ab81396c417ba103d76d81fddee3
 title: "오리엔테이션 퀴즈"
 description: "강의실 기본 동선과 GitHub sync 개념을 점검합니다."
 published: true
 order_index: 10
 questions:
-  - type: short_answer
+  - id: qqn_fe0da2c5c06640019afa24179def1d15
+    type: short_answer
     order_index: 20
     text: "GitHub에서 강의 메타데이터를 정의하는 루트 파일 이름은?"
     correct_answer: "course.yaml"
     points: 1
 
-  - type: mcq
+  - id: qqn_bb507f17223845de8446dbff477ec94b
+    type: mcq
     order_index: 10
     text: "다음 중 이 회차에서 '루트 asset'으로 테스트하려는 파일은?"
     options:
@@ -24,7 +27,8 @@ questions:
     correct: A
     points: 2
 
-  - type: essay
+  - id: qqn_70e868fd6f3c4b71a880567b11bdf34a
+    type: essay
     order_index: 30
     text: "GitHub가 source of truth일 때, 플랫폼 projection과 어떤 역할 분리를 가져야 하는지 설명하세요."
     points: 5

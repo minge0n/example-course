@@ -1,8 +1,10 @@
+id: qiz_2d9d2c192d6346cb9d5a1bbfa78f4289
 title: "사전 점검 퀴즈"
 description: "강의 전 배경지식 확인용 퀴즈"
 published: false
 questions:
-  - type: mcq
+  - id: qqn_9a57c8d90e5d4165a66e6f4e6e40b31c
+    type: mcq
     text: "학생 화면에서 이 퀴즈는 어떻게 보여야 하나요?"
     options:
       - label: A
