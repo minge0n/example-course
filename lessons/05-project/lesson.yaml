@@ -1,2 +1,4 @@
-title: "실전 프로젝트: 포트폴리오 사이트"
-description: "HTML, CSS, JavaScript를 활용하여 반응형 포트폴리오 사이트를 만듭니다."
+title: "만료된 회차"
+description: "available_until이 지난 뒤 학생 접근이 막히는지 확인하는 회차입니다."
+published: true
+available_until: "2025-12-31T23:59:59+09:00"

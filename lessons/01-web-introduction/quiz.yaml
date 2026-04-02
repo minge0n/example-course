@@ -1,24 +1,30 @@
-title: "웹 개발 소개 퀴즈"
+title: "오리엔테이션 퀴즈"
+description: "강의실 기본 동선과 GitHub sync 개념을 점검합니다."
+published: true
+order_index: 10
 questions:
+  - type: short_answer
+    order_index: 20
+    text: "GitHub에서 강의 메타데이터를 정의하는 루트 파일 이름은?"
+    correct_answer: "course.yaml"
+    points: 1
+
   - type: mcq
-    text: "웹에서 클라이언트 역할을 하는 것은?"
+    order_index: 10
+    text: "다음 중 이 회차에서 '루트 asset'으로 테스트하려는 파일은?"
     options:
       - label: A
-        text: "웹 브라우저"
+        text: "slides.pdf"
       - label: B
-        text: "데이터베이스"
+        text: "content.md"
       - label: C
-        text: "운영체제"
+        text: "quiz.yaml"
       - label: D
-        text: "네트워크 스위치"
+        text: "README.md"
     correct: A
     points: 2
 
-  - type: short_answer
-    text: "HTML, CSS, JavaScript 중 웹 페이지의 구조를 담당하는 언어는?"
-    correct_answer: "HTML"
-    points: 1
-
   - type: essay
-    text: "프론트엔드와 백엔드의 차이를 본인의 언어로 설명하세요."
+    order_index: 30
+    text: "GitHub가 source of truth일 때, 플랫폼 projection과 어떤 역할 분리를 가져야 하는지 설명하세요."
     points: 5

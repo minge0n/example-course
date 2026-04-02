@@ -1,2 +1,4 @@
-title: "JavaScript 기초"
-description: "변수, 함수, 조건문, 반복문, DOM 조작을 학습합니다."
+title: "예약 공개 회차"
+description: "future availability window가 걸린 회차입니다. 학생은 시간이 되기 전까지 접근할 수 없어야 합니다."
+published: true
+available_from: "2030-01-01T09:00:00+09:00"

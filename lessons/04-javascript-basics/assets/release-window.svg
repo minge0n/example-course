@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220">
+  <rect width="720" height="220" fill="#fffaf0"/>
+  <line x1="60" y1="120" x2="660" y2="120" stroke="#64748b" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="180" cy="120" r="16" fill="#94a3b8"/>
+  <circle cx="360" cy="120" r="16" fill="#f59e0b"/>
+  <circle cx="560" cy="120" r="16" fill="#22c55e"/>
+  <text x="120" y="90" font-family="Arial, sans-serif" font-size="18" fill="#475569">작성</text>
+  <text x="314" y="90" font-family="Arial, sans-serif" font-size="18" fill="#92400e">available_from</text>
+  <text x="524" y="90" font-family="Arial, sans-serif" font-size="18" fill="#166534">학생 공개</text>
+</svg>

@@ -1,2 +1,5 @@
-title: "웹 개발 소개"
-description: "웹의 동작 원리를 이해하고 개발 환경을 설정합니다."
+title: "오리엔테이션: GitHub sync와 강의실 구조"
+description: "온라인강의실이 GitHub 저장소를 어떻게 읽어와서 회차, asset, 퀴즈로 보여주는지 빠르게 훑습니다."
+published: true
+available_from: "2026-01-01T09:00:00+09:00"
+available_until: "2026-12-31T23:59:59+09:00"
