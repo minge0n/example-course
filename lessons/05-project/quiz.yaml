@@ -1,0 +1,38 @@
+title: "실전 프로젝트 퀴즈"
+questions:
+  - type: mcq
+    text: "반응형 웹 디자인에서 화면 크기에 따라 스타일을 변경하는 CSS 기능은?"
+    options:
+      - label: A
+        text: "미디어 쿼리 (Media Query)"
+      - label: B
+        text: "CSS 변수"
+      - label: C
+        text: "CSS 애니메이션"
+      - label: D
+        text: "CSS 트랜지션"
+    correct: A
+    points: 2
+
+  - type: mcq
+    text: "CSS Grid에서 반응형 열을 만들 때 사용하는 함수 조합은?"
+    options:
+      - label: A
+        text: "repeat(3, 1fr)"
+      - label: B
+        text: "repeat(auto-fit, minmax(280px, 1fr))"
+      - label: C
+        text: "grid-template: auto"
+      - label: D
+        text: "flex-wrap: wrap"
+    correct: B
+    points: 2
+
+  - type: short_answer
+    text: "HTML에서 모바일 뷰포트를 올바르게 설정하는 meta 태그의 name 속성 값은?"
+    correct_answer: "viewport"
+    points: 1
+
+  - type: essay
+    text: "본인이 만든 포트폴리오 사이트에서 가장 어려웠던 부분과 해결 과정을 설명하세요. 사용한 기술(HTML/CSS/JS)과 구현 방법을 구체적으로 서술하세요."
+    points: 10

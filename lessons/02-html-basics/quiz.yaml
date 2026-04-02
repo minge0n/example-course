@@ -1,0 +1,39 @@
+title: "HTML 기초 퀴즈"
+questions:
+  - type: mcq
+    text: "다음 중 시맨틱 태그가 아닌 것은?"
+    options:
+      - label: A
+        text: "<header>"
+      - label: B
+        text: "<div>"
+      - label: C
+        text: "<article>"
+      - label: D
+        text: "<nav>"
+    correct: B
+    points: 2
+
+  - type: mcq
+    text: "HTML 폼에서 이메일 형식을 자동으로 검증하는 input type은?"
+    options:
+      - label: A
+        text: "text"
+      - label: B
+        text: "mail"
+      - label: C
+        text: "email"
+      - label: D
+        text: "address"
+    correct: C
+    points: 2
+
+  - type: short_answer
+    text: "HTML 테이블에서 헤더 행을 감싸는 태그의 이름은? (꺽쇠 제외)"
+    correct_answer: "thead"
+    points: 1
+
+  - type: short_answer
+    text: "폼 전송 시 서버에 데이터를 보내는 HTTP 메서드로 주로 사용하는 것은?"
+    correct_answer: "POST"
+    points: 1

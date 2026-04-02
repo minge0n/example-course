@@ -1,0 +1,24 @@
+title: "웹 개발 소개 퀴즈"
+questions:
+  - type: mcq
+    text: "웹에서 클라이언트 역할을 하는 것은?"
+    options:
+      - label: A
+        text: "웹 브라우저"
+      - label: B
+        text: "데이터베이스"
+      - label: C
+        text: "운영체제"
+      - label: D
+        text: "네트워크 스위치"
+    correct: A
+    points: 2
+
+  - type: short_answer
+    text: "HTML, CSS, JavaScript 중 웹 페이지의 구조를 담당하는 언어는?"
+    correct_answer: "HTML"
+    points: 1
+
+  - type: essay
+    text: "프론트엔드와 백엔드의 차이를 본인의 언어로 설명하세요."
+    points: 5
